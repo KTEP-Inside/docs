@@ -1,24 +1,35 @@
 {
-  "short_title": "KI SD",
-  "title": "Server Documentation",
-  "subtitle": "KInside.ServerDocs",
-  "description": "документация к серверу",
-  "support": {
-    "name": "Скопец Денис Андреевич",
-    "href": "https://vk.com/skopetc"
-  },
-  "authors": [
-    {
-      "name": "Кириaлл",
-      "href": "https://vk.com/uty_momo"
-    },
-    {
-      "name": "Егор aka Игорь",
-      "href": "https://t.me/qurunma"
-    },
-    {
-      "name": "Максимильян",
-      "href": "https://vk.com/maxmeh666"
-    }
-  ]
+	"short_title": "KI SD",
+	"title": "Server Documentation",
+	"subtitle": "KInside.ServerDocs",
+	"description": "документация к серверу",
+	"support": {
+		"name": "Скопец Денис Андреевич",
+		"href": "https://vk.com/skopetc"
+	},
+	"authors": [
+		{
+			"name": "Кириaлл",
+			"href": "https://vk.com/uty_momo"
+		},
+		{
+			"name": "Егор aka Игорь",
+			"href": "https://t.me/qurunma"
+		},
+		{
+			"name": "Максимильян",
+			"href": "https://vk.com/maxmeh666"
+		}
+	],
+	"domains": {
+		"root": "ktep-inside.local",
+		"main": "main.ktep-inside.local",
+		"cdn": "static.ktep-inside.local",
+		"docs": "docs.ktep-inside.local",
+		"moodle": "moodle.ktep-inside.local"
+	},
+  "external_refs": {
+    "design": "https://www.figma.com/file/gv9DNmfCfSrZjIXxl1lkOL/%D0%9B%D0%BE%D0%B3%D0%BE%D0%B1%D1%83%D0%BA-(Copy)?node-id=0%3A1&t=Sj22WSYH22ARoNxX-1",
+    "github": "https://github.com/KTEP-inside"
+  }
 }
